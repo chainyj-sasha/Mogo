@@ -1,0 +1,8 @@
+<link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:wght@400;700&family=Roboto:ital,wght@0,400;1,300&display=swap" rel="stylesheet"> 
+
+
+    font-family: 'Kaushan Script', cursive;       Regular 400
+
+    font-family: 'Montserrat', sans-serif;          Regular 400    Bold 700
+
+    font-family: 'Roboto', sans-serif;               Light 300 italic   Regular 400
